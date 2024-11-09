@@ -1,0 +1,19 @@
+{
+  "name": "backend24",
+  "version": "1.0.0",
+  "description": "backend full course",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Avijit Dam",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "type": "module"
+}
